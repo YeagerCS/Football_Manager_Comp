@@ -1,0 +1,21 @@
+﻿<Window x:Class="Football_Manager.Matches"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Football_Manager"
+        mc:Ignorable="d"
+        Title="TeamManagement" Height="700" Width="1353">
+    <Grid Background="#FF1E1E1E" Width="1353" Height="700">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="83*"/>
+            <ColumnDefinition Width="1271*"/>
+        </Grid.ColumnDefinitions>
+        <Label Content="Recent Matches" HorizontalAlignment="Left" FlowDirection="LeftToRight" Margin="354,10,0,0" VerticalAlignment="Top" Width="482" Foreground="White" FontFamily="Arial Rounded MT Bold" FontSize="60" RenderTransformOrigin="1.089,0.763" Grid.Column="1"/>
+        <ListBox SelectedItem="{Binding SelectedItem, UpdateSourceTrigger=PropertyChanged}" x:Name="lbx" HorizontalAlignment="Left" Height="492" Margin="262,153,0,0" VerticalAlignment="Top" Width="664" d:ItemsSource="{d:SampleData ItemCount=5}" FontFamily="Arial Rounded MT Bold" FontSize="36" Background="#FF1E1E1E" Foreground="White" BorderBrush="White" Grid.Column="1" >
+        </ListBox>
+        <Button x:Name="backBtn" Content="Back" HorizontalAlignment="Left" Margin="36,31,0,0" VerticalAlignment="Top" Height="58" Width="163" Background="#FF1E1E1E" BorderBrush="White" Foreground="White" FontFamily="Arial" FontSize="36" Click="backBtn_Click" Grid.ColumnSpan="2" />
+        <Label x:Name="sellPrice" Content="" HorizontalAlignment="Left" Margin="564,526,0,0" VerticalAlignment="Top" Width="196" Foreground="#FFFDFF01" FontFamily="Arial Rounded MT Bold" FontSize="36" RenderTransformOrigin="1.089,0.763" Grid.Column="1"/>
+
+    </Grid>
+</Window>

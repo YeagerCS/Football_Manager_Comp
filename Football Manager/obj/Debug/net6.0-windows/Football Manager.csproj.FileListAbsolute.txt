@@ -1,0 +1,142 @@
+C:\Users\Debug\source\repos\Football Manager\Football Manager\bin\Debug\net6.0-windows\Football Manager.exe
+C:\Users\Debug\source\repos\Football Manager\Football Manager\bin\Debug\net6.0-windows\Football Manager.deps.json
+C:\Users\Debug\source\repos\Football Manager\Football Manager\bin\Debug\net6.0-windows\Football Manager.runtimeconfig.json
+C:\Users\Debug\source\repos\Football Manager\Football Manager\bin\Debug\net6.0-windows\Football Manager.dll
+C:\Users\Debug\source\repos\Football Manager\Football Manager\bin\Debug\net6.0-windows\Football Manager.pdb
+C:\Users\Debug\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\Football Manager.csproj.AssemblyReference.cache
+C:\Users\Debug\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Debug\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Debug\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\Football Manager_MarkupCompile.cache
+C:\Users\Debug\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\Football Manager_MarkupCompile.lref
+C:\Users\Debug\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Debug\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\Football Manager.g.resources
+C:\Users\Debug\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\Football Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Debug\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\Football Manager.AssemblyInfoInputs.cache
+C:\Users\Debug\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\Football Manager.AssemblyInfo.cs
+C:\Users\Debug\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\Football Manager.csproj.CoreCompileInputs.cache
+C:\Users\Debug\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\Football Manager.dll
+C:\Users\Debug\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\refint\Football Manager.dll
+C:\Users\Debug\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\Football Manager.pdb
+C:\Users\Debug\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\Football Manager.genruntimeconfig.cache
+C:\Users\Debug\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\ref\Football Manager.dll
+C:\Users\Debug\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\WelcomeWindow.g.cs
+C:\Users\Debug\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\WelcomeWindow.baml
+C:\Users\javae\source\repos\Football Manager\Football Manager\bin\Debug\net6.0-windows\Football Manager.exe
+C:\Users\javae\source\repos\Football Manager\Football Manager\bin\Debug\net6.0-windows\Football Manager.deps.json
+C:\Users\javae\source\repos\Football Manager\Football Manager\bin\Debug\net6.0-windows\Football Manager.runtimeconfig.json
+C:\Users\javae\source\repos\Football Manager\Football Manager\bin\Debug\net6.0-windows\Football Manager.dll
+C:\Users\javae\source\repos\Football Manager\Football Manager\bin\Debug\net6.0-windows\Football Manager.pdb
+C:\Users\javae\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\Football Manager.csproj.AssemblyReference.cache
+C:\Users\javae\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\javae\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\WelcomeWindow.g.cs
+C:\Users\javae\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\javae\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\Football Manager_MarkupCompile.cache
+C:\Users\javae\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\Football Manager_MarkupCompile.lref
+C:\Users\javae\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\javae\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\WelcomeWindow.baml
+C:\Users\javae\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\Football Manager.g.resources
+C:\Users\javae\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\Football Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javae\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\Football Manager.AssemblyInfoInputs.cache
+C:\Users\javae\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\Football Manager.AssemblyInfo.cs
+C:\Users\javae\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\Football Manager.csproj.CoreCompileInputs.cache
+C:\Users\javae\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\Football Manager.dll
+C:\Users\javae\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\refint\Football Manager.dll
+C:\Users\javae\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\Football Manager.pdb
+C:\Users\javae\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\Football Manager.genruntimeconfig.cache
+C:\Users\javae\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\ref\Football Manager.dll
+C:\Users\javae\source\repos\Football Manager\Football Manager\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\javae\source\repos\Football Manager\Football Manager\bin\Debug\net6.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\javae\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\Football Manager.csproj.CopyComplete
+C:\Users\Debug\source\repos\Football Manager\Football Manager\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Debug\source\repos\Football Manager\Football Manager\bin\Debug\net6.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\Debug\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\Football Manager.csproj.CopyComplete
+C:\Users\Debug\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\TeamManagement.g.cs
+C:\Users\Debug\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\TeamManagement.baml
+C:\Users\javae\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\TeamManagement.g.cs
+C:\Users\javae\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\TeamManagement.baml
+C:\Users\javae\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\UpgradePlayers.g.cs
+C:\Users\javae\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\UpgradePlayers.baml
+C:\Users\marin\source\repos\Football Manager\Football Manager\bin\Debug\net6.0-windows\Football Manager.exe
+C:\Users\marin\source\repos\Football Manager\Football Manager\bin\Debug\net6.0-windows\Football Manager.deps.json
+C:\Users\marin\source\repos\Football Manager\Football Manager\bin\Debug\net6.0-windows\Football Manager.runtimeconfig.json
+C:\Users\marin\source\repos\Football Manager\Football Manager\bin\Debug\net6.0-windows\Football Manager.dll
+C:\Users\marin\source\repos\Football Manager\Football Manager\bin\Debug\net6.0-windows\Football Manager.pdb
+C:\Users\marin\source\repos\Football Manager\Football Manager\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\marin\source\repos\Football Manager\Football Manager\bin\Debug\net6.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\marin\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\Football Manager.csproj.AssemblyReference.cache
+C:\Users\marin\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\marin\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\TeamManagement.g.cs
+C:\Users\marin\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\UpgradePlayers.g.cs
+C:\Users\marin\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\WelcomeWindow.g.cs
+C:\Users\marin\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\marin\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\Football Manager_MarkupCompile.cache
+C:\Users\marin\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\Football Manager_MarkupCompile.lref
+C:\Users\marin\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\marin\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\TeamManagement.baml
+C:\Users\marin\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\UpgradePlayers.baml
+C:\Users\marin\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\WelcomeWindow.baml
+C:\Users\marin\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\Football Manager.g.resources
+C:\Users\marin\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\Football Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marin\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\Football Manager.AssemblyInfoInputs.cache
+C:\Users\marin\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\Football Manager.AssemblyInfo.cs
+C:\Users\marin\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\Football Manager.csproj.CoreCompileInputs.cache
+C:\Users\marin\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\Football Manager.csproj.CopyComplete
+C:\Users\marin\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\Football Manager.dll
+C:\Users\marin\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\refint\Football Manager.dll
+C:\Users\marin\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\Football Manager.pdb
+C:\Users\marin\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\Football Manager.genruntimeconfig.cache
+C:\Users\marin\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\ref\Football Manager.dll
+C:\Users\javae\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\Shop.g.cs
+C:\Users\javae\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\Shop.baml
+C:\Users\javae\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\Stats.g.cs
+C:\Users\javae\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\Stats.baml
+C:\Users\javae\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\GameLoop.g.cs
+C:\Users\javae\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\GameLoop.baml
+C:\Users\javae\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\Matches.g.cs
+C:\Users\javae\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\Matches.baml
+C:\Users\javae\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\DebuggingWindow.g.cs
+C:\Users\javae\source\repos\Football Manager\Football Manager\obj\Debug\net6.0-windows\DebuggingWindow.baml
+C:\Users\javae\source\repos\Football Manager - Copy\Football Manager\bin\Debug\net6.0-windows\Football Manager.exe
+C:\Users\javae\source\repos\Football Manager - Copy\Football Manager\bin\Debug\net6.0-windows\Football Manager.deps.json
+C:\Users\javae\source\repos\Football Manager - Copy\Football Manager\bin\Debug\net6.0-windows\Football Manager.runtimeconfig.json
+C:\Users\javae\source\repos\Football Manager - Copy\Football Manager\bin\Debug\net6.0-windows\Football Manager.dll
+C:\Users\javae\source\repos\Football Manager - Copy\Football Manager\bin\Debug\net6.0-windows\Football Manager.pdb
+C:\Users\javae\source\repos\Football Manager - Copy\Football Manager\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\javae\source\repos\Football Manager - Copy\Football Manager\bin\Debug\net6.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\javae\source\repos\Football Manager - Copy\Football Manager\obj\Debug\net6.0-windows\Football Manager.csproj.AssemblyReference.cache
+C:\Users\javae\source\repos\Football Manager - Copy\Football Manager\obj\Debug\net6.0-windows\DebuggingWindow.g.cs
+C:\Users\javae\source\repos\Football Manager - Copy\Football Manager\obj\Debug\net6.0-windows\GameLoop.g.cs
+C:\Users\javae\source\repos\Football Manager - Copy\Football Manager\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\javae\source\repos\Football Manager - Copy\Football Manager\obj\Debug\net6.0-windows\Matches.g.cs
+C:\Users\javae\source\repos\Football Manager - Copy\Football Manager\obj\Debug\net6.0-windows\Shop.g.cs
+C:\Users\javae\source\repos\Football Manager - Copy\Football Manager\obj\Debug\net6.0-windows\Stats.g.cs
+C:\Users\javae\source\repos\Football Manager - Copy\Football Manager\obj\Debug\net6.0-windows\TeamManagement.g.cs
+C:\Users\javae\source\repos\Football Manager - Copy\Football Manager\obj\Debug\net6.0-windows\UpgradePlayers.g.cs
+C:\Users\javae\source\repos\Football Manager - Copy\Football Manager\obj\Debug\net6.0-windows\WelcomeWindow.g.cs
+C:\Users\javae\source\repos\Football Manager - Copy\Football Manager\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\javae\source\repos\Football Manager - Copy\Football Manager\obj\Debug\net6.0-windows\Football Manager_MarkupCompile.cache
+C:\Users\javae\source\repos\Football Manager - Copy\Football Manager\obj\Debug\net6.0-windows\Football Manager_MarkupCompile.lref
+C:\Users\javae\source\repos\Football Manager - Copy\Football Manager\obj\Debug\net6.0-windows\DebuggingWindow.baml
+C:\Users\javae\source\repos\Football Manager - Copy\Football Manager\obj\Debug\net6.0-windows\GameLoop.baml
+C:\Users\javae\source\repos\Football Manager - Copy\Football Manager\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\javae\source\repos\Football Manager - Copy\Football Manager\obj\Debug\net6.0-windows\Matches.baml
+C:\Users\javae\source\repos\Football Manager - Copy\Football Manager\obj\Debug\net6.0-windows\Shop.baml
+C:\Users\javae\source\repos\Football Manager - Copy\Football Manager\obj\Debug\net6.0-windows\Stats.baml
+C:\Users\javae\source\repos\Football Manager - Copy\Football Manager\obj\Debug\net6.0-windows\TeamManagement.baml
+C:\Users\javae\source\repos\Football Manager - Copy\Football Manager\obj\Debug\net6.0-windows\UpgradePlayers.baml
+C:\Users\javae\source\repos\Football Manager - Copy\Football Manager\obj\Debug\net6.0-windows\WelcomeWindow.baml
+C:\Users\javae\source\repos\Football Manager - Copy\Football Manager\obj\Debug\net6.0-windows\Football Manager.g.resources
+C:\Users\javae\source\repos\Football Manager - Copy\Football Manager\obj\Debug\net6.0-windows\Football Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javae\source\repos\Football Manager - Copy\Football Manager\obj\Debug\net6.0-windows\Football Manager.AssemblyInfoInputs.cache
+C:\Users\javae\source\repos\Football Manager - Copy\Football Manager\obj\Debug\net6.0-windows\Football Manager.AssemblyInfo.cs
+C:\Users\javae\source\repos\Football Manager - Copy\Football Manager\obj\Debug\net6.0-windows\Football Manager.csproj.CoreCompileInputs.cache
+C:\Users\javae\source\repos\Football Manager - Copy\Football Manager\obj\Debug\net6.0-windows\Football Manager.csproj.CopyComplete
+C:\Users\javae\source\repos\Football Manager - Copy\Football Manager\obj\Debug\net6.0-windows\Football Manager.dll
+C:\Users\javae\source\repos\Football Manager - Copy\Football Manager\obj\Debug\net6.0-windows\refint\Football Manager.dll
+C:\Users\javae\source\repos\Football Manager - Copy\Football Manager\obj\Debug\net6.0-windows\Football Manager.pdb
+C:\Users\javae\source\repos\Football Manager - Copy\Football Manager\obj\Debug\net6.0-windows\Football Manager.genruntimeconfig.cache
+C:\Users\javae\source\repos\Football Manager - Copy\Football Manager\obj\Debug\net6.0-windows\ref\Football Manager.dll
+C:\Users\javae\source\repos\Football Manager - Copy\Football Manager\obj\Debug\net6.0-windows\Packs.g.cs
+C:\Users\javae\source\repos\Football Manager - Copy\Football Manager\obj\Debug\net6.0-windows\Packs.baml
+C:\Users\javae\source\repos\Football Manager - Copy\Football Manager\bin\Debug\net6.0-windows\Microsoft.WindowsAPICodePack.dll
+C:\Users\javae\source\repos\Football Manager - Copy\Football Manager\bin\Debug\net6.0-windows\WindowsAPICodePack.Shell.CommonFileDialogs.dll

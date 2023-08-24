@@ -1,0 +1,23 @@
+﻿<Window x:Class="Football_Manager.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Football_Manager"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="680" Width="1353">
+    <Grid Background="#FF1E1E1E" Margin="0,0,0,-16" Width="1353" Height="680">
+        <Label Content="Football Manager" HorizontalAlignment="Center" Margin="0,10,0,0" VerticalAlignment="Top" Width="532" Foreground="White" FontFamily="Arial Rounded MT Bold" FontSize="60" RenderTransformOrigin="1.089,0.763"/>
+        <Button x:Name="playBtn" Content="Play" HorizontalAlignment="Center" Margin="0,136,0,0" VerticalAlignment="Top" Height="66" Width="642" Background="#FF1E1E1E" BorderBrush="White" Foreground="White" FontFamily="Arial" FontSize="48" Click="playBtn_Click"/>
+        <Button x:Name="statsBtn" Content="Show stats and Coins" HorizontalAlignment="Center" VerticalAlignment="Top" Height="66" Width="642" Background="#FF1E1E1E" BorderBrush="White" Foreground="White" FontFamily="Arial" FontSize="48" Margin="0,202,0,0" Click="statsBtn_Click"/>
+        <Button x:Name="upgradeBtn" Content="Upgrade Team" HorizontalAlignment="Center" Margin="0,268,0,0" VerticalAlignment="Top" Height="66" Width="642" Background="#FF1E1E1E" BorderBrush="White" Foreground="White" FontFamily="Arial" FontSize="48" Click="upgradeBtn_Click"/>
+        <Button x:Name="managementBtn" Content="Team Management" HorizontalAlignment="Center" Margin="0,334,0,0" VerticalAlignment="Top" Height="66" Width="642" Background="#FF1E1E1E" BorderBrush="White" Foreground="White" FontFamily="Arial" FontSize="48" Click="managementBtn_Click"/>
+        <Button x:Name="matchesBtn" Content="Show Matches" HorizontalAlignment="Center" Margin="0,464,0,0" VerticalAlignment="Top" Height="66" Width="642" Background="#FF1E1E1E" BorderBrush="White" Foreground="White" FontFamily="Arial" FontSize="48" Click="matchesBtn_Click"/>
+        <Button x:Name="exit" Content="Exit Application" HorizontalAlignment="Center" Margin="0,530,0,0" VerticalAlignment="Top" Height="66" Width="642" Background="#FF1E1E1E" BorderBrush="White" Foreground="White" FontFamily="Arial" FontSize="48" Click="exit_Click"/>
+        <Label Content="Coins: " HorizontalAlignment="Left" Margin="1018,33,0,0" VerticalAlignment="Top" Width="122" Foreground="White" FontFamily="Arial Rounded MT Bold" FontSize="36" RenderTransformOrigin="1.089,0.763"/>
+        <Label x:Name="coinLbl" Content="##" HorizontalAlignment="Left" Margin="1145,33,0,0" VerticalAlignment="Top" Width="208" Foreground="#FFFDFF01" FontFamily="Arial Rounded MT Bold" FontSize="36" RenderTransformOrigin="1.089,0.763"/>
+        <Button x:Name="shopBtn" Content="Shop" HorizontalAlignment="Center" Margin="0,400,0,0" VerticalAlignment="Top" Height="66" Width="642" Background="#FF1E1E1E" BorderBrush="White" Foreground="White" FontFamily="Arial" FontSize="48" Click="shopBtn_Click"/>
+        <Label x:Name="debug" MouseDoubleClick="debug_MouseDoubleClick" Content="Football Manager" HorizontalAlignment="Center" Margin="0,591,0,0" VerticalAlignment="Top" Width="642" Foreground="#FF1E1E1E" FontFamily="Arial Rounded MT Bold" FontSize="60" RenderTransformOrigin="1.089,0.763"/>
+
+    </Grid>
+</Window>

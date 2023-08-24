@@ -1,0 +1,27 @@
+﻿<Window x:Class="Football_Manager.Shop"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Football_Manager"
+        mc:Ignorable="d"
+        Title="TeamManagement" Height="700" Width="1353">
+    <Grid Background="#FF1E1E1E" Width="1353" Height="700">
+        <Label Content="Shop" HorizontalAlignment="Center" Margin="0,11,0,0" VerticalAlignment="Top" Width="183" Foreground="White" FontFamily="Arial Rounded MT Bold" FontSize="60" RenderTransformOrigin="1.089,0.763"/>
+        <Label Content="Players" HorizontalAlignment="Left" Margin="374,89,0,0" VerticalAlignment="Top" Width="302" Foreground="White" FontFamily="Arial Rounded MT Bold" FontSize="52" RenderTransformOrigin="1.089,0.763"/>
+        <ListBox ItemsSource="{Binding Players}" SelectedItem="{Binding SelectedItem, UpdateSourceTrigger=PropertyChanged}" x:Name="shopLbx" HorizontalAlignment="Left" Height="492" Margin="216,164,0,0" VerticalAlignment="Top" Width="570" d:ItemsSource="{d:SampleData ItemCount=5}" FontFamily="Arial Rounded MT Bold" FontSize="30" Background="#FF1E1E1E" Foreground="White" BorderBrush="White" SelectionChanged="shopLbx_SelectionChanged">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding DisplayString}" />
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <Button x:Name="purchaseBtn" Content="Purchase" HorizontalAlignment="Left" Margin="917,334,0,0" VerticalAlignment="Top" Height="76" Width="305" Background="#FF1E1E1E" BorderBrush="White" Foreground="White" FontFamily="Arial" FontSize="36" Click="purchaseBtn_Click" />
+        <Button x:Name="backBtn" Content="Back" HorizontalAlignment="Left" Margin="36,31,0,0" VerticalAlignment="Top" Height="58" Width="163" Background="#FF1E1E1E" BorderBrush="White" Foreground="White" FontFamily="Arial" FontSize="36" Click="backBtn_Click" />
+        <Label Content="Coins: " HorizontalAlignment="Left" Margin="1018,33,0,0" VerticalAlignment="Top" Width="122" Foreground="White" FontFamily="Arial Rounded MT Bold" FontSize="36" RenderTransformOrigin="1.089,0.763"/>
+        <Label x:Name="coinLbl" Content="##" HorizontalAlignment="Left" Margin="1145,33,0,0" VerticalAlignment="Top" Width="179" Foreground="#FFFDFF01" FontFamily="Arial Rounded MT Bold" FontSize="36" RenderTransformOrigin="1.089,0.763"/>
+        <Label x:Name="priceLbl" Content="" HorizontalAlignment="Left" Margin="917,277,0,0" VerticalAlignment="Top" Width="305" Foreground="#FFFDFF01" FontFamily="Arial Rounded MT Bold" FontSize="36" RenderTransformOrigin="1.089,0.763"/>
+        <Button x:Name="packsBtn" Content="Packs" HorizontalAlignment="Left" Margin="917,452,0,0" VerticalAlignment="Top" Height="76" Width="305" Background="#FF1E1E1E" BorderBrush="White" Foreground="White" FontFamily="Arial" FontSize="36" Click="packsBtn_Click" />
+
+    </Grid>
+</Window>

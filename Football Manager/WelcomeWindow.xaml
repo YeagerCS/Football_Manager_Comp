@@ -1,0 +1,24 @@
+﻿<Window x:Class="Football_Manager.WelcomeWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Football_Manager"
+        mc:Ignorable="d"
+        Title="WelcomeWindow" Height="680" Width="1353">
+    <Grid Background="#FF1E1E1E" Margin="0,0,0,-16" Width="1353" Height="680">
+        <Label Content="Welcome, Please create your team" HorizontalAlignment="Center" Margin="0,10,0,0" VerticalAlignment="Top" Width="1024" Foreground="White" FontFamily="Arial Rounded MT Bold" FontSize="60" RenderTransformOrigin="1.089,0.763"/>
+        <Label Content="First name: " HorizontalAlignment="Left" Margin="53,182,0,0" VerticalAlignment="Top" Width="361" Foreground="White" FontFamily="Arial Rounded MT Bold" FontSize="36" RenderTransformOrigin="1.089,0.763"/>
+        <Label Content="Last name:" HorizontalAlignment="Left" Margin="53,288,0,0" VerticalAlignment="Top" Width="361" Foreground="White" FontFamily="Arial Rounded MT Bold" FontSize="36" RenderTransformOrigin="1.089,0.763"/>
+        <Label Content="Team name:" HorizontalAlignment="Left" Margin="53,395,0,0" VerticalAlignment="Top" Width="361" Foreground="White" FontFamily="Arial Rounded MT Bold" FontSize="36" RenderTransformOrigin="1.089,0.763"/>
+        <TextBox x:Name="firstnameTbx" HorizontalAlignment="Left" Margin="383,184,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="489" FontSize="36"/>
+        <TextBox x:Name="lastnameTbx" HorizontalAlignment="Left" Margin="383,290,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="489" FontSize="36"/>
+        <TextBox x:Name="teamnameTbx" HorizontalAlignment="Left" Margin="383,397,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="489" FontSize="36"/>
+        <Button x:Name="saveBtn" Content="Save" HorizontalAlignment="Left" Margin="34,573,0,0" VerticalAlignment="Top" Height="66" Width="283" Background="#FF1E1E1E" BorderBrush="White" Foreground="White" FontFamily="Arial" FontSize="36" Click="saveBtn_Click"/>
+        <Label Content="Save Files Path:" HorizontalAlignment="Left" Margin="53,493,0,0" VerticalAlignment="Top" Width="361" Foreground="White" FontFamily="Arial Rounded MT Bold" FontSize="36" RenderTransformOrigin="1.089,0.763"/>
+        <TextBox x:Name="pathTbx" HorizontalAlignment="Left" Margin="383,495,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="489" FontSize="26" Height="50"/>
+        <Label Content="/serialization" HorizontalAlignment="Left" Margin="877,495,0,0" VerticalAlignment="Top" Width="361" Foreground="White" FontFamily="Arial Rounded MT Bold" FontSize="36" RenderTransformOrigin="1.089,0.763"/>
+        <Button x:Name="choosefileBtn" Content="Choose Path" HorizontalAlignment="Left" Margin="1112,493,0,0" VerticalAlignment="Top" Height="64" Width="231" Background="#FF1E1E1E" BorderBrush="White" Foreground="White" FontFamily="Arial" FontSize="32" Click="choosefileBtn_Click" />
+
+    </Grid>
+</Window>

@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "P3ehmqThZuuQznM5B+rEfjh6C92YlDgbT6rjnyCFSg2nJ80CeQqLdfOMsMb11X28roZmXyFUtz9eASsMujiAYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\javae\\source\\repos\\Football Manager - Copy\\Football Manager\\Football Manager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\javae\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\javae\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\javae\\.nuget\\packages\\windowsapicodepack-core\\1.1.2\\windowsapicodepack-core.1.1.2.nupkg.sha512",
+    "C:\\Users\\javae\\.nuget\\packages\\windowsapicodepack.shell.commonfiledialogs\\1.1.5\\windowsapicodepack.shell.commonfiledialogs.1.1.5.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'WindowsAPICodePack-Core 1.1.2' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "WindowsAPICodePack-Core",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}
