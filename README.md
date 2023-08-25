@@ -46,4 +46,4 @@ As method of persistence I knowningly chose JSON. Why? Because it is not a multi
 - In the packs menu, make it possible to send each player into the squad or quick sell each player instead of all at once
 - Introduce a database for more flexible persistence
 - Avoid so many variable definitions in the View classes
--  
+
