@@ -5,8 +5,9 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Football_Manager"
         mc:Ignorable="d"
-        Title="TeamManagement" Height="700" Width="1353">
-    <Grid Background="#FF1E1E1E" Width="1353" Height="700">
+        Title="TeamManagement" Height="700" Width="1393"
+        WindowStartupLocation="CenterScreen">
+    <Grid Background="#FF1E1E1E" Width="1393" Height="700">
         <Label Content="Team Management" HorizontalAlignment="Left" Margin="397,10,0,0" VerticalAlignment="Top" Width="611" Foreground="White" FontFamily="Arial Rounded MT Bold" FontSize="60" RenderTransformOrigin="1.089,0.763"/>
         <Label Content="Starting 11" HorizontalAlignment="Left" Margin="170,94,0,0" VerticalAlignment="Top" Width="302" Foreground="White" FontFamily="Arial Rounded MT Bold" FontSize="52" RenderTransformOrigin="1.089,0.763"/>
         <Label x:Name="benchlbl" Content="Bench" HorizontalAlignment="Left" Margin="1002,94,0,0" VerticalAlignment="Top" Width="187" Foreground="White" FontFamily="Arial Rounded MT Bold" FontSize="52" RenderTransformOrigin="1.089,0.763"/>

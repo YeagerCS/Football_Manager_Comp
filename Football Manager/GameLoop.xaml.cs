@@ -122,7 +122,7 @@ namespace Football_Manager
 
                 winLoseDraw.Content = "You Win!";
                 team.addWins();
-                manager.AddMoney(750);
+                manager.AddMoney(1500);
                 manager.Rating = Math.Round(manager.Rating * 1.015, 2);
 
                 serv.SaveManagers(manager);
@@ -155,7 +155,7 @@ namespace Football_Manager
                     winLoseDraw.Content = "Draw!";
 
                     team.addDraws();
-                    manager.AddMoney(300);
+                    manager.AddMoney(600);
                     manager.Rating = Math.Round(manager.Rating * 1, 2);
                     modell.matches.Add($"{teamName} {goals} : {eGoals} {eName}");
                     serv.SaveMatches(modell.matches);
@@ -171,7 +171,7 @@ namespace Football_Manager
 
                     winLoseDraw.Content = "You lose!";
                     team.addLoses();
-                    manager.AddMoney(120);
+                    manager.AddMoney(200);
                     manager.Rating = Math.Round(manager.Rating * .985, 2);
                     modell.matches.Add($"{teamName} {goals} : {eGoals} {eName}");
                     serv.SaveMatches(modell.matches);

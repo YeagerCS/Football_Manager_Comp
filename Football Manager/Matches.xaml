@@ -5,8 +5,9 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Football_Manager"
         mc:Ignorable="d"
-        Title="TeamManagement" Height="700" Width="1353">
-    <Grid Background="#FF1E1E1E" Width="1353" Height="700">
+        Title="TeamManagement" Height="700" Width="1393"
+        WindowStartupLocation="CenterScreen">
+    <Grid Background="#FF1E1E1E" Width="1393" Height="700">
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="83*"/>
             <ColumnDefinition Width="1271*"/>

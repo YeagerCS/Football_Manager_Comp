@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\javae\source\repos\Football Manager - Copy\Football Manager\obj\Debug\net6.0-windows\
+C:\Users\Debug\Source\Repos\YeagerCS\Football_Manager_Comp\Football Manager\obj\Debug\net6.0-windows\
 Football_Manager
 none
 false
-TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-C:\Users\javae\source\repos\Football Manager - Copy\Football Manager\App.xaml
+TRACE;RELEASE;NET;NET6_0;NETCOREAPP
+C:\Users\Debug\Source\Repos\YeagerCS\Football_Manager_Comp\Football Manager\App.xaml
 10134129531
 
-21-1843143142
-207-477774964
+32-1726035428
+414-1838931942
 DebuggingWindow.xaml;GameLoop.xaml;MainWindow.xaml;Matches.xaml;Packs.xaml;Shop.xaml;Stats.xaml;TeamManagement.xaml;UpgradePlayers.xaml;WelcomeWindow.xaml;
 
-False
+True
 

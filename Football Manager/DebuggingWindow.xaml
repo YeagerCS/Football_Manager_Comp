@@ -5,12 +5,13 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Football_Manager"
         mc:Ignorable="d"
-        Title="MainWindow" Height="680" Width="1353">
-    <Grid Background="#FF1E1E1E" Margin="0,0,0,-16" Width="1353" Height="680">
+        Title="MainWindow" Height="680" Width="1393"
+        WindowStartupLocation="CenterScreen">
+    <Grid Background="#FF1E1E1E" Margin="0,0,0,-16" Width="1393" Height="680">
         <Label Content="Debug Menu" HorizontalAlignment="Center" Margin="0,10,0,0" VerticalAlignment="Top" Width="376" Foreground="White" FontFamily="Arial Rounded MT Bold" FontSize="60" RenderTransformOrigin="1.089,0.763"/>
         <Button x:Name="addBtn" Content="Add" HorizontalAlignment="Left" Margin="76,289,0,0" VerticalAlignment="Top" Height="34" Width="170" Background="#FF1E1E1E" BorderBrush="White" Foreground="White" FontFamily="Arial" FontSize="24" Click="addBtn_Click"/>
         <Label Content="Coins: " HorizontalAlignment="Left" Margin="940,33,0,0" VerticalAlignment="Top" Width="122" Foreground="White" FontFamily="Arial Rounded MT Bold" FontSize="36" RenderTransformOrigin="1.089,0.763"/>
-        <Label x:Name="coinLbl" Content="##" HorizontalAlignment="Left" Margin="1067,33,0,0" VerticalAlignment="Top" Width="179" Foreground="#FFFDFF01" FontFamily="Arial Rounded MT Bold" FontSize="36" RenderTransformOrigin="1.089,0.763"/>
+        <Label x:Name="coinLbl" Content="##" HorizontalAlignment="Left" Margin="1067,33,0,0" VerticalAlignment="Top" Width="275" Foreground="#FFFDFF01" FontFamily="Arial Rounded MT Bold" FontSize="36" RenderTransformOrigin="1.089,0.763"/>
         <TextBox x:Name="amountTbx" Margin="76,232,889,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="388" Height="52" FontFamily="Arial Rounded MT Bold" FontSize="36" Background="White" Foreground="White">
             <TextBox.Style>
                 <Style TargetType="TextBox">

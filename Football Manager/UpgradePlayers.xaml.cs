@@ -151,7 +151,7 @@ namespace Football_Manager
                         string newRating = "" + list[listBox.SelectedIndex].Rating;
                         string displayString = list[listBox.SelectedIndex].DisplayString;
                         list[listBox.SelectedIndex].DisplayString = displayString.Replace(lastRating, newRating);
-                        list[listBox.SelectedIndex].Price = 3500 + (Convert.ToInt32(newRating) - 65) * 370;
+                        list[listBox.SelectedIndex].Price = new Calc().getPrice(list[listBox.SelectedIndex].Rating);
                         manager.Money += -prices[index];
                         Serialize(list, manager);
                         listBox.Items.Clear();

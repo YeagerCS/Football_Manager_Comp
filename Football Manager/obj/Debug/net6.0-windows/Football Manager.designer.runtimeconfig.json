@@ -12,8 +12,8 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\javae\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\javae\\.nuget\\packages",
+      "C:\\Users\\Debug\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Debug\\.nuget\\packages",
       "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
     ],
     "configProperties": {

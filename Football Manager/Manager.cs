@@ -42,6 +42,7 @@ namespace Football_Manager
             set { lastName = value; }
         }
 
+        // Is used but currently does nothing
         public double Rating
         {
             get { return rating; }

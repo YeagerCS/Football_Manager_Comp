@@ -5,8 +5,9 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Football_Manager"
         mc:Ignorable="d"
-        Title="TeamManagement" Height="700" Width="1353">
-    <Grid Background="#FF1E1E1E" Width="1353" Height="700">
+        Title="TeamManagement" Height="700" Width="1393"
+        WindowStartupLocation="CenterScreen">
+    <Grid Background="#FF1E1E1E" Width="1393" Height="700">
 
         <Label Content="Play" HorizontalAlignment="Center" Margin="0,-2,0,0" VerticalAlignment="Top" Width="139" Foreground="White" FontFamily="Arial Rounded MT Bold" FontSize="60" RenderTransformOrigin="1.089,0.763"/>
         <Button x:Name="backBtn" Content="Back" HorizontalAlignment="Left" Margin="36,31,0,0" VerticalAlignment="Top" Height="58" Width="163" Background="#FF1E1E1E" BorderBrush="White" Foreground="White" FontFamily="Arial" FontSize="36" Click="backBtn_Click" />
@@ -16,7 +17,7 @@
         <Label x:Name="team2Lbl2" Content="" HorizontalAlignment="Right" FlowDirection="RightToLeft" Margin="0,200,67,0" VerticalAlignment="Top" Width="454" Foreground="White" FontFamily="Arial Rounded MT Bold" FontSize="52" RenderTransformOrigin="1.089,0.763"/>
         <Label x:Name="team1Goals" Content="" HorizontalAlignment="Left" Margin="565,200,0,0" VerticalAlignment="Top" Width="78" Foreground="#FFFDFF01" FontFamily="Arial Rounded MT Bold" FontSize="52" RenderTransformOrigin="1.089,0.763"/>
         <Label x:Name="team1Lbl2_Copy1" Content=":" HorizontalAlignment="Center" Margin="0,200,0,0" VerticalAlignment="Top" Width="78" Foreground="#FFFDFF01" FontFamily="Arial Rounded MT Bold" FontSize="52" RenderTransformOrigin="1.089,0.763"/>
-        <Label x:Name="team2Goals" Content="" HorizontalAlignment="Left" Margin="696,200,0,0" VerticalAlignment="Top" Width="78" Foreground="#FFFDFF01" FontFamily="Arial Rounded MT Bold" FontSize="52" RenderTransformOrigin="1.089,0.763"/>
+        <Label x:Name="team2Goals" Content="" HorizontalAlignment="Left" Margin="741,200,0,0" VerticalAlignment="Top" Width="78" Foreground="#FFFDFF01" FontFamily="Arial Rounded MT Bold" FontSize="52" RenderTransformOrigin="1.089,0.763"/>
         <ListBox x:Name="goalsLbx" HorizontalAlignment="Left" Height="390" Margin="76,270,0,0" VerticalAlignment="Top" Width="466" d:ItemsSource="{d:SampleData ItemCount=5}" FontSize="36" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="#FFFFF500"/>
         <Label x:Name="benchlbl_Copy1" Content="Team Rating:" HorizontalAlignment="Left" Margin="1010,121,0,0" VerticalAlignment="Top" Width="276" Foreground="White" FontFamily="Arial Rounded MT Bold" FontSize="36" RenderTransformOrigin="1.089,0.763"/>
         <Label x:Name="ratingEnemyLbl" Content="##" HorizontalAlignment="Left" Margin="1267,124,0,0" VerticalAlignment="Top" Width="112" Foreground="#FFFDFF01" FontFamily="Arial Rounded MT Bold" FontSize="36" RenderTransformOrigin="1.089,0.763"/>

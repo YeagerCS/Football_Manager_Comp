@@ -5,8 +5,9 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Football_Manager"
         mc:Ignorable="d"
-        Title="TeamManagement" Height="700" Width="1353">
-    <Grid Background="#FF1E1E1E" Width="1353" Height="700">
+        Title="TeamManagement" Height="700" Width="1393"
+        WindowStartupLocation="CenterScreen">
+    <Grid Background="#FF1E1E1E" Width="1393" Height="700">
         <Label Content="Upgrade Players" HorizontalAlignment="Left" Margin="484,15,0,0" VerticalAlignment="Top" Width="612" Foreground="White" FontFamily="Arial Rounded MT Bold" FontSize="60" RenderTransformOrigin="1.089,0.763"/>
         <Label Content="Starting 11" HorizontalAlignment="Left" Margin="170,94,0,0" VerticalAlignment="Top" Width="302" Foreground="White" FontFamily="Arial Rounded MT Bold" FontSize="52" RenderTransformOrigin="1.089,0.763"/>
         <Label x:Name="benchlbl" Content="Bench" HorizontalAlignment="Left" Margin="1002,94,0,0" VerticalAlignment="Top" Width="187" Foreground="White" FontFamily="Arial Rounded MT Bold" FontSize="52" RenderTransformOrigin="1.089,0.763"/>
@@ -36,7 +37,7 @@
         <Label Content="(Double click enabled Box" HorizontalAlignment="Left" Height="33" Margin="194,31,0,0" VerticalAlignment="Top" Width="303" Foreground="White" FontFamily="Arial Rounded MT Bold" FontSize="22"/>
         <Label Content="to cancel Selection)" HorizontalAlignment="Left" Height="33" Margin="194,56,0,0" VerticalAlignment="Top" Width="273" Foreground="White" FontFamily="Arial Rounded MT Bold" FontSize="22"/>
         <Label Content="Coins: " HorizontalAlignment="Left" Margin="1018,33,0,0" VerticalAlignment="Top" Width="122" Foreground="White" FontFamily="Arial Rounded MT Bold" FontSize="36" RenderTransformOrigin="1.089,0.763"/>
-        <Label x:Name="coinAmount" Content="##" HorizontalAlignment="Left" Margin="1145,33,0,0" VerticalAlignment="Top" Width="179" Foreground="#FFFDFF01" FontFamily="Arial Rounded MT Bold" FontSize="36" RenderTransformOrigin="1.089,0.763"/>
+        <Label x:Name="coinAmount" Content="##" HorizontalAlignment="Left" Margin="1145,33,0,0" VerticalAlignment="Top" Width="238" Foreground="#FFFDFF01" FontFamily="Arial Rounded MT Bold" FontSize="36" RenderTransformOrigin="1.089,0.763"/>
 
     </Grid>
 </Window>
