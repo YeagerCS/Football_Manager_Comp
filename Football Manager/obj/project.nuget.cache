@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Lm6FnawsTp6InTunwz/QK/PHrDLE2CpLxvBDL5y8+Udm3Ft+xPWwVkviEVShIGfXImwAqwELuKMaLbvgiyV17A==",
+  "dgSpecHash": "2VWJTYFYQgTC4ZMrU+Rd+EmlCmMAurjDZMV0luXcF1BSKnDE4eGwluqGLewFqPvuqAHWJdnDchh+CXhA92o6UA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Debug\\Source\\Repos\\YeagerCS\\Football_Manager_Comp\\Football Manager\\Football Manager.csproj",
+  "projectFilePath": "C:\\Users\\javae\\Source\\Repos\\YeagerCS\\Football_Manager_Comp\\Football Manager\\Football Manager.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Debug\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
-    "C:\\Users\\Debug\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
-    "C:\\Users\\Debug\\.nuget\\packages\\windowsapicodepack-core\\1.1.2\\windowsapicodepack-core.1.1.2.nupkg.sha512",
-    "C:\\Users\\Debug\\.nuget\\packages\\windowsapicodepack.shell.commonfiledialogs\\1.1.5\\windowsapicodepack.shell.commonfiledialogs.1.1.5.nupkg.sha512"
+    "C:\\Users\\javae\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\javae\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\javae\\.nuget\\packages\\windowsapicodepack-core\\1.1.2\\windowsapicodepack-core.1.1.2.nupkg.sha512",
+    "C:\\Users\\javae\\.nuget\\packages\\windowsapicodepack.shell.commonfiledialogs\\1.1.5\\windowsapicodepack.shell.commonfiledialogs.1.1.5.nupkg.sha512"
   ],
   "logs": [
     {

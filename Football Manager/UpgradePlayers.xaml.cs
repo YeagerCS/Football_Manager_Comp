@@ -23,7 +23,7 @@ namespace Football_Manager
         Modell modell = new Modell();
         Manager manager = new Manager();
 
-        int[] prices = { 750, 1250, 2250, 3500 };
+        int[] prices = { 3500, 6800, 17000, 36000 };
         int[] ratings = { 1, 2, 5, 10 };
         public UpgradePlayers()
         {

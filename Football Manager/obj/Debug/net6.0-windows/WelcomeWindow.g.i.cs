@@ -102,7 +102,7 @@ namespace Football_Manager {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Football Manager;component/welcomewindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Football Manager;V1.0.0.0;component/welcomewindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\WelcomeWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

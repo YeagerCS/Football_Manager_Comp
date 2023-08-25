@@ -78,7 +78,7 @@ namespace Football_Manager {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Football Manager;component/matches.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Football Manager;V1.0.0.0;component/matches.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\Matches.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

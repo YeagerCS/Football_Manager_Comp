@@ -294,7 +294,7 @@ namespace Football_Manager {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Football Manager;component/debuggingwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Football Manager;V1.0.0.0;component/debuggingwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\DebuggingWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
