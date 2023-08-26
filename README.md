@@ -24,10 +24,11 @@ Per every game you play you earn some coins:
 - Win: 1500 coins
 - Draw: 600 coins
 - Loss: 200 coins  
-In the beginning you should be able to afford low rated players with that money, then when selling players you can earn more. Selling players reduces the price of the player to an extent. Again this is dependent on the rating, this time with a linear function
+In the beginning you should be able to afford low rated players with that money, then when selling players you can earn more. Selling players reduces the price of the player to an extent. Again this is dependent on the rating, this time calculated with a linear function:
 ```
 f(x) = 1100 + ((rating - 58) / (99 - 58)) * (13000 - 1100)
 ```
+This is the money that gets removed when you sell a player.
 
 ## Simulation
 The simulation uses the following code to determine the winner of a match:  
